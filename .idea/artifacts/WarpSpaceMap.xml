@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="StarloaderTest">
+  <artifact type="jar" name="WarpSpaceMap">
     <output-path>$PROJECT_DIR$/../../../../Games/Steam/steamapps/common/StarMade beta/StarMade/mods</output-path>
     <root id="archive" name="WarpSpaceMap.jar">
       <element id="module-output" name="WarpSpaceMap" />

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../WarpSpaceMap/StarloaderTest/WarpSpaceMap.iml" filepath="$PROJECT_DIR$/../../WarpSpaceMap/StarloaderTest/WarpSpaceMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WarpSpaceMap.iml" filepath="$PROJECT_DIR$/WarpSpaceMap.iml" />
     </modules>
   </component>
 </project>
