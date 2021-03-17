@@ -1,0 +1,17 @@
+{
+  "name": "WarpSpaceMap",
+  "author": "taswin",
+  "description": "Taswin's addon for IRONSIGHT's WarpSace that draws stars in in the Galaxy Map while in Warp.",
+  "version": "0.0.1",
+  "starmade_version": "dev - v0.202.108",
+  "client_mod": false,
+  "server_mod": false,
+  "main_class": "me.taswin.warpSpaceMap.WarpSpaceMap",
+  "smd_resource_id": 98765,
+  "dependencies": [
+    -1,
+    8166
+  ],
+  "core_mod": false,
+  "requires_class_resize": false
+}
